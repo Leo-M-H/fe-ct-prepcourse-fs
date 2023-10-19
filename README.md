@@ -17,7 +17,7 @@ El Prep Course (curso preparatorio) es un curso diseñado con la finalidad de ni
 El curso consiste en una serie de videos, material teórico y ejercicios con los que podrás aprender nuestro lenguaje de desarrollo: Javascript. Puedes avanzar con el contenido a tu ritmo y de manera asincrónica (es decir, en los horarios y tiempos que tu prefieras). Cuando hayas finalizado, podrás inscribirte para realizar el Henry Challenge.
 
 </br >
-
+Hola mundo
 ## **📖 ¿QUÉ ES EL HENRY CHALLENGE?**
 
 Es un examen en el que evaluamos los conceptos que se aprenden durante el Prep Course. El examen tiene la finalidad de asegurarnos que realmente has adquirido los conocimientos, dado que tenerlos bien claros es la clave del éxito para que puedas avanzar sin problemas dentro de la carrera. El examen se realiza todos los sábados, con previa [inscripción](https://www.admissions.soyhenry.com/). Podrás rendirlo todas las veces que quieras.
